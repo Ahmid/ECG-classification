@@ -42,7 +42,7 @@ A neural network that classifies the ECG Beat as normal, abnormal (Arrhythmias),
 ![Snippet from PyCharm](https://github.com/Ahmid/ECG-classification/blob/master/RawImages/snippet.jpg)
 
 
-4. And finally some predictions on new unseen data:
+4. And finally some predictions on new unseen data where 0, 1, 2 and 3 corresponds to normal, abnormal, etc.. 
 
 ![Predictions](https://github.com/Ahmid/ECG-classification/blob/master/RawImages/predictions.png)
 
